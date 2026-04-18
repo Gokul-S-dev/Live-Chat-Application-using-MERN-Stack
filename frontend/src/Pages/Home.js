@@ -130,7 +130,7 @@ const Home = () => {
             role="tab"
             aria-selected={isLogin}
           >
-            Login
+            Login s
           </button>
           <button
             type="button"
